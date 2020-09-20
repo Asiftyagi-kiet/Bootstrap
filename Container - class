@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap_container</title>
+  <meta charset="utf-8"
+<!-------meta tag--------->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!----------- online link bootstrap ------------->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!–---------bootsrtap link end --------->
+</head>
+<body>
+  <!-------class name----------->
+<div class="container-fluid">
+  <h1>My Name is Asif Tyagi</h1>
+  <p>This part is inside a .container-fluid class.</p>
+  <p>The .container-fluid class provides a full width container, spanning the entire width of the viewport.</p>
+</div>
+
+
+
+</body>
+</html>       
